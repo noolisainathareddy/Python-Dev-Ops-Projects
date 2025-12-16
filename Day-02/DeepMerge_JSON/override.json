@@ -1,0 +1,6 @@
+{
+    "replicas" : 5,
+    "resources": {
+        "cpu": "1"
+    }
+}
