@@ -1,0 +1,4 @@
+resources:
+  - type: ec2
+  - type: s3
+  - type: ec2

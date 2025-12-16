@@ -1,0 +1,5 @@
+[
+  {"level": "INFO", "msg": "Started"},
+  {"level": "ERROR", "msg": "DB connection failed"},
+  {"level": "ERROR", "msg": "Timeout"}
+]
