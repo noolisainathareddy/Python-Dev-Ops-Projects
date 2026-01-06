@@ -1,0 +1,4 @@
+dev:
+  replicas: 1
+prod:
+  replicas: 5
